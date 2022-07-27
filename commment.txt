@@ -1,0 +1,1 @@
+This repository contains activities in html: fonts of letters, colors, how to create tabs, etc
